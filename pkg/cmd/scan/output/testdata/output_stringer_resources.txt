@@ -1,9 +1,9 @@
 Found deleted resources:
   FakeResourceStringer:
-    - dfjkgnbsgj (Name: 'deleted resource')
+    - Name: 'deleted resource'
 Found unmanaged resources:
   FakeResourceStringer:
-    - duysgkfdjfdgfhd (Name: 'unmanaged resource')
+    - Name: 'unmanaged resource'
 Found drifted resources:
   - gdsfhgkbn (Name: 'resource with diff'):
     ~ Name: "" => "resource with diff"
